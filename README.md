@@ -1,4 +1,4 @@
-This account is a repository of random coding projects that I have decided to do. Many of them will probably be incomplete or buggy. 
+This account is a repository of random coding projects that I have decided to do. Many of them will be incomplete,buggy, and highly inefficient.  
 
 <!---
 someguynamedcai/someguynamedcai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
